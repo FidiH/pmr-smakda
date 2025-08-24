@@ -1,0 +1,13 @@
+# SvelteKit build output
+.svelte-kit/
+build/
+
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+.env.*.local
+
+# lainnya
+.temp/
