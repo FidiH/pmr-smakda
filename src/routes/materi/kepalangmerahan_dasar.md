@@ -2,9 +2,10 @@
 ---
 title: "materi kepalangmerahan"
 date: "08, 07, 2025"
+icon: "📖"
 ---
 
-# 📘 Materi Kepalangmerahan PMR
+# 📘 Kepalangmerahan PMR
 
 ## 1. Apa itu Kepalangmerahan?  
 Kepalangmerahan adalah **gerakan kemanusiaan** yang tujuannya membantu orang tanpa pilih kasih. Di Indonesia, kita mengenalnya lewat **PMI (Palang Merah Indonesia)**.  

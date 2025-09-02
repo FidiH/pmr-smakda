@@ -1,10 +1,11 @@
 ---
 title: "materi obat Obat-Obatan"
 date: "08, 07, 2025"
+icon: "💊"
 ---
 
 
-# 💊 Materi Obat-Obatan & Fungsinya  
+# 💊 Obat-Obatan & Fungsinya  
 
 ## ⚠️ Catatan Penting  
 - Obat-obatan ini hanya contoh yang **sering dikenal masyarakat**.  

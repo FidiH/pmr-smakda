@@ -13,8 +13,12 @@
 <h1 class="font-bold text-2xl mb-3">Daftar Materi.</h1>
 <ul>
   {#each data.posts as post}
-    <li class="px-5 py-3 border my-6 rounded-xl text-slate-700 shadow">
-      <a href={post.path}>{post.meta.title}</a>
+    <li class="mt-6">
+      <a href={post.path} class="flex items-center">
+        <span class="p-2 inline-block mr-2 rounded-xl border-slate-400
+        shadow-xl text-2xl">{post.meta.icon}</span>
+        <span class="p-2">{post.meta.title}</span>
+      </a>
     </li>
   {/each}
 </ul>

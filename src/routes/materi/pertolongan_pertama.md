@@ -1,10 +1,11 @@
 ---
 title: "materi p3k dasar"
 date: "08, 07, 2025"
+icon: "⛑️"
 ---
 
 
-# 🩹 Materi Pertolongan Pertama (P3K)  
+# 🩹 Pertolongan Pertama (P3K)  
 
 ## 1. Apa itu Pertolongan Pertama?  
 Pertolongan pertama adalah **tindakan darurat sementara** yang diberikan pada orang sakit atau cedera, sebelum mendapatkan bantuan medis lebih lanjut.  
